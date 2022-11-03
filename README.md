@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Rajput
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Frontend, Infra
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/vivekrajput791/
